@@ -350,7 +350,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  hasPowerup: 0
+  hasPowerup: 1
   PowerupIndicator: {fileID: 693598492}
 --- !u!1001 &693598491
 PrefabInstance:
